@@ -1,0 +1,6 @@
+{
+  "name": "Shopee",
+  "description": "A modern, responsive e-commerce web application featuring curated product discovery, seamless cart management, and scalable architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
